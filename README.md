@@ -1,23 +1,24 @@
 # [Project Name] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+##Basic Details
+### Team Name: [ByteStormers]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Aadhya Gopakumar N] - [LBSITW]
+- Member 2: [Bismitha S N] - [LBSITW]
+- Member 3: [Devu S Santhosh] - [LBSITW]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Created a website tailored to women's  health during periods.This website consist of food itms that one should eat during their periods,we also included a page which contains exercise that one can follow for different struggles they face during their period.This website also tells a women the importance of selfcare and 
+ staying hydrated during this time.For relaxation we have also added a music playlist.] 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Women suffer alot during their periods.Some of them don't even know what kind of food that they have  to eat during these days,]
 
 ### The Solution
 [How are you solving it? Keep it fun!]
