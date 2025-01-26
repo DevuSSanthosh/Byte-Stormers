@@ -96,8 +96,8 @@ For Hardware:
 
 ## Team Contributions
 - [Devu S Santhosh]: [Design contributions]
-- [Bismitha]: [ Code Arrangement contributions]
-- [Name 3]: [Code Layout contributions]
+- [Bismitha S N]: [ Code Arrangement contributions]
+- [Aadhya Gopakumar N]: [Code Layout contributions]
 
 ---
 Made with ❤️ at TinkerHub
