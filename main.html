@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HerTime Care</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #E3BAB6;
+            color: #2E1F15;
+        }
+        header {
+            background-color: #E07C8E;
+            color: #F7EBE0;
+            text-align: center;
+            padding: 1rem;
+        }
+        .logo {
+            max-width: 150px;
+            height: auto;
+        }
+        nav {
+            background-color: #A66466;
+            padding: 0.5rem;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        nav ul li {
+            margin: 0 10px;
+        }
+        nav ul li a {
+            color:#F7EBE0;
+            text-decoration: none;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .section {
+            background-color:#F7EBE0;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .section-header {
+            background-color: #efd4c4;
+            color: #F7EBE0;
+            padding: 10px;
+            cursor: pointer;
+        }
+        .section-content {
+            padding: 15px;
+            display: none;
+        }
+        .section-content.active {
+            display: block;
+        }
+        footer {
+            background-color: #E07C8E;
+            color: #F7EBE0;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://i.pinimg.com/236x/44/18/3b/44183bb7ac11a46212e1b33c6ac800cb.jpg" alt="HerTime Care Logo" class="logo">
+        <h1>HerTime Care</h1>
+        <h3>Highlights “her time” during the cycle with a focus on care and self-love.
+        </h3>
+
+    </header>
+
+
+    <main>
+    
+
+        <div class="section" id="food">
+            <div class="section-header">
+               <ul><li> <a href="food1.html">FOOD</a></li></ul>
+                
+            </div>
+            
+        </div>
+        <div class="section" id="exercises">
+            <div class="section-header">
+                <ul><li><a href="exercise1.html">EXERCISE </a></li></ul>
+            </div>
+            
+        </div>
+
+
+        <div class="section" id="hydration">
+            <div class="section-header">
+                <ul><li></li><a href="hydration1.html">HYDRATION</a></li></ul>
+            </div>
+            
+        </div>
+
+        <div class="section" id="music">
+            <div class="section-header">
+                <ul><li><a href="music1.html">MUSIC</a></li></ul>
+            </div>
+            
+        </div>
+
+        <div class="section" id="self-care">
+            <div class="section-header">
+                <ul><li> <a href="selfcare1.html">SELF-CARE</a></li></ul>
+            </div>
+           
+        </div>
+        <div class="section" id="About">
+            <div class="section-header">
+                <ul><li> <a href="about.html">ABOUT</a></li></ul>
+            </div>
+             
+        </div>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 HerTime Care. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const sections = document.querySelectorAll('.section');
+            
+            sections.forEach(section => {
+                const header = section.querySelector('.section-header');
+                const content = section.querySelector('.section-content');
+                
+                header.addEventListener('click', () => {
+                    content.classList.toggle('active');
+                });
+            });
+
+            // Open section if hash is present in URL
+            if (window.location.hash) {
+                const section = document.querySelector(window.location.hash);
+                if (section) {
+                    section.querySelector('.section-content').classList.add('active');
+                }
+            }
+        });
+    </script>
+</body>
+</html>
