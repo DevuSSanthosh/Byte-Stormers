@@ -11,7 +11,7 @@
 - Member 3: [Devu S Santhosh] - [LBSITW]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[ID: bom1::724nt-1737871382746-dd65b9fcdab8]
 
 ### Project Description
 [Created a website tailored to women's  health during periods.This website consist of food itms that one should eat during their periods,we also included a page which contains exercise that one can follow for different struggles they face during their period.This website also tells a women the importance of selfcare and 
@@ -48,14 +48,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+!![Screenshot_26-1-2025_103245_127 0 0 1](https://github.com/user-attachments/assets/40966a70-d15f-4697-aee6-14b4b92c61ce)]
+(Home page of our website HerTimeCare)
+*Deals with the problems women face during their period*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![![Screenshot_26-1-2025_103314_127 0 0 1](https://github.com/user-attachments/assets/72a93ca6-a0c7-478c-aee6-27102161dde3)
+](Food items )
+*Food items that women should eats during periods*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![![Screenshot_26-1-2025_104025_127 0 0 1](https://github.com/user-attachments/assets/68fcdc1e-258e-4de1-bec9-3c064798aa34)
+](Music )
+*We created a playlist for women having different moodswings to relax by hearing music*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -85,7 +88,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[]
 *Explain what the video demonstrates*
 
 # Additional Demos
