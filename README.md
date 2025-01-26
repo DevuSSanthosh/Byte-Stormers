@@ -14,7 +14,7 @@
 [ID: bom1::724nt-1737871382746-dd65b9fcdab8]
 
 ### Project Description
-[Created a website tailored to women's  health during periods.This website consist of food itms that one should eat during their periods,we also included a page which contains exercise that one can follow for different struggles they face during their period.This website also tells a women the importance of selfcare and 
+[Created a website tailored to women's  health during periods.This website consist of food items that one should eat during their periods,we also included a page which contains exercise that one can follow for different struggles they face during their periods.This website also tells a women the importance of selfcare and 
  staying hydrated during this time.For relaxation we have also added a music playlist.] 
 
 ### The Problem statement
