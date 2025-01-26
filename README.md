@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [HerTime Care] 🎯
 
 
 ##Basic Details
@@ -18,18 +18,18 @@
  staying hydrated during this time.For relaxation we have also added a music playlist.] 
 
 ### The Problem statement
-[Women suffer alot during their periods.Some of them don't even know what kind of food that they have  to eat during these days,]
+[Women suffer a lot during their periods.Some of them don't even know what kind of food that they have to eat during these days.Most of them have severe period cramps,and also they have different mood swings.They also don't know the importance of hydration and proper selfcare]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[This website provides  some of the best food items that one can eat during their periods.Different kind of exercises that reduces the cramps to some extend.Importance of Hydration and Selfcare during their period]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML]
+- [CSS]
+- [nil]
+- [v0 by Vercel,chat gpt]
 
 For Hardware:
 - [List main components]
@@ -92,9 +92,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Devu S Santhosh]: [Design contributions]
+- [Bismitha]: [ Code Arrangement contributions]
+- [Name 3]: [Code Layout contributions]
 
 ---
 Made with ❤️ at TinkerHub
